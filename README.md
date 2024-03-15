@@ -1,3 +1,27 @@
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=130&section=header&text=Only-Five&fontSize=80&fontAlignY=53" />
+</div>
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Expresss-000000?style=flat&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+    <br/>    
+    <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=Oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
+<br/>
+<br/>
+<br/>
+
 # ajou-only-five
 친구들과 함께 To-do를 기록하고 공유하는 서비스입니다. 월별로 To-do 목록 완료 개수가 가장 많은 친구 5명의 정보를 차트로 보여줘, 친구들끼리 서로 To-do를 완료할 수 있도록 자극을 주고 받도록 구성했습니다.
 
